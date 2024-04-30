@@ -1,0 +1,8 @@
+Change Footprint: Footprint Not Found R-0805
+Change Footprint: Footprint Not Found SOT23-6
+Change Footprint: Footprint Not Found DIPTP
+Add Component: Footprint Not Found R-0805
+Add Pin To Net: Unknown Pin: Pin FB1-1
+Add Pin To Net: Unknown Pin: Pin FB1-2
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Class Member: Failed to add class member : Component FB1 NC

@@ -1,0 +1,42 @@
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=C2
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=C3
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=C6
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=C7
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=C9
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=C10
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=J2
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=R1
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=R5
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=R6
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=R7
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=R11
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=R12
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=R13
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=SE1
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=T1
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=T2
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=T4
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=T5
+Removed Member From Class: ClassName=452006252#进气模块电路板1 Member=U2
+Change Footprint: Footprint Not Found R-0805
+Change Footprint: Footprint Not Found SOT23-6
+Change Footprint: Footprint Not Found DIPTP
+Add Component: Footprint Not Found R-0805
+Add Pin To Net: Unknown Pin: Pin FB1-1
+Add Pin To Net: Unknown Pin: Pin FB1-2
+Add Pin To Net: Unknown Pin: Pin U4-6
+Change Net Name : Old Net Name=F New Net Name=Flow_3100
+Change Net Name : Old Net Name=T New Net Name=Temperature_3100
+Added Class: Name=氧气源压力传感器
+Added Member To Class: ClassName=接口 Member=Component C3 10uF/16V
+Added Member To Class: ClassName=接口 Member=Component C6 100nF
+Add Class Member: Failed to add class member : Component FB1 NC
+Added Member To Class: ClassName=接口 Member=Component J2 Header 5X2
+Added Member To Class: ClassName=接口 Member=Component R1 3.3K
+Added Member To Class: ClassName=接口 Member=Component R5 3.3K
+Added Member To Class: ClassName=接口 Member=Component R7 0
+Added Member To Class: ClassName=接口 Member=Component R11 0
+Added Member To Class: ClassName=接口 Member=Component R13 NC
+Added Member To Class: ClassName=接口 Member=Component T1 直插测试点
+Added Member To Class: ClassName=接口 Member=Component T2 直插测试点
+Added Member To Class: ClassName=接口 Member=Component T5 直插测试点
