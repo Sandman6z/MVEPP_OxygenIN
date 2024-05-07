@@ -1,5 +1,5 @@
 Record=TopLevelDocument|FileName=3100.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=3100.SchDoc|FileName=基准.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=3100.SchDoc|FileName=接口.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=3100.SchDoc|FileName=IO.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=3100.SchDoc|FileName=Power&Vref.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=3100.SchDoc|FileName=框图.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=3100.SchDoc|FileName=氧气源压力传感器.SchDoc|SheetNumber=5

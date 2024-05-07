@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GLAUDSDJ
 
 [Document2]
-DocumentPath=接口.SchDoc
+DocumentPath=IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PHJNLXLA
 
 [Document3]
-DocumentPath=基准.SchDoc
+DocumentPath=Power&Vref.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -141,7 +141,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
