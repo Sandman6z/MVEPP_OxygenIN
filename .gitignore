@@ -1,5 +1,10 @@
 # logs:
 *.log
 
-# historys:
-/History/
+# files:
+*.SchDocPreview
+
+# folders:
+History/
+__Previews/
+Project Logs for *
