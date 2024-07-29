@@ -5,6 +5,6 @@
 *.SchDocPreview
 
 # folders:
-History/
-__Previews/
-Project Logs for *
+/History/
+/__Previews/
+/Project*/
