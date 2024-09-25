@@ -67,13 +67,13 @@ GenerateClassCluster=0
 DocumentUniqueId=GLAUDSDJ
 
 [Document2]
-DocumentPath=IO.SchDoc
+DocumentPath=Top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=4
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -81,7 +81,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PHJNLXLA
+DocumentUniqueId=RRHJRLRY
 
 [Document3]
 DocumentPath=Power&Vref.SchDoc
@@ -101,6 +101,23 @@ GenerateClassCluster=0
 DocumentUniqueId=DKLLVBYM
 
 [Document4]
+DocumentPath=IO.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PHJNLXLA
+
+[Document5]
 DocumentPath=3100.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,8 +134,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNAKOIXD
 
-[Document5]
-DocumentPath=氧气源压力传感器.SchDoc
+[Document6]
+DocumentPath=OxygenPressureSensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVRDMQBG
 
-[Document6]
+[Document7]
 DocumentPath=MVEPP进气模块电路板.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSWMXDVX
 
-[Document7]
+[Document8]
 DocumentPath=MVEPP进气模块电路板.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,6 +184,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IFJXCFUF
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 452007099_MVEPP进气模块板\Design Rule Check - MVEPP进气模块电路板.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -286,42 +307,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=doPDF v7
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -428,6 +419,11 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1090,6 +1086,7 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
+Type154=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

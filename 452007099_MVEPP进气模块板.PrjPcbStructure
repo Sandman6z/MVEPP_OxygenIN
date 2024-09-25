@@ -1,5 +1,6 @@
-Record=TopLevelDocument|FileName=3100.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=3100.SchDoc|FileName=IO.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=3100.SchDoc|FileName=Power&Vref.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=3100.SchDoc|FileName=框图.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=3100.SchDoc|FileName=氧气源压力传感器.SchDoc|SheetNumber=5
+Record=TopLevelDocument|FileName=Top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_3100|SchDesignator=U_3100|FileName=3100.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=3100.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_IO|SchDesignator=U_IO|FileName=IO.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=IO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Power&Vref|SchDesignator=U_Power&Vref|FileName=Power&Vref.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power&Vref.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_框图|SchDesignator=U_框图|FileName=框图.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=框图.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_氧气源压力传感器|SchDesignator=U_氧气源压力传感器|FileName=OxygenPressureSensor.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=OxygenPressureSensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
