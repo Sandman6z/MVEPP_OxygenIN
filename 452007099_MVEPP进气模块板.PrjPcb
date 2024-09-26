@@ -168,23 +168,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSWMXDVX
 
-[Document8]
-DocumentPath=MVEPP进气模块电路板.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IFJXCFUF
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for 452007099_MVEPP进气模块板\Design Rule Check - MVEPP进气模块电路板.html
 DItemRevisionGUID=
